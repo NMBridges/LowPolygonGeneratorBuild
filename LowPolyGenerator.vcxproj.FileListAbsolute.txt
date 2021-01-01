@@ -1,1 +1,2 @@
 C:\Users\scrat\OneDrive\Documents\Dev\LowPolygonGenerator\x64\Release\LowPolyGenerator.exe
+C:\Users\scrat\OneDrive\Documents\Dev\C++ Projects\LowPolygonGenerator\x64\Release\LowPolyGenerator.exe
